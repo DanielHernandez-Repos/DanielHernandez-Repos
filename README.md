@@ -29,9 +29,6 @@ Frameworks y Librerías
 Herramientas y DevOps
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
 
-📊 Estadísticas de GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Hernandez-Repos&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2E9AFE&icon_color=2E9AFE&text_color=ffffff" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Hernandez-Repos&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=2E9AFE&text_color=ffffff" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Hernandez-Repos&theme=radical&hide_border=true&background=0d1117&stroke=2E9AFE&ring=2E9AFE&fire=2E9AFE&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2E9AFE&sideLabels=2E9AFE&dates=ffffff" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel-Hernandez-Repos&theme=react-dark&bg_color=0d1117&color=2E9AFE&line=2E9AFE&point=ffffff&area=true&hide_border=true" /> </div>
 🏆 Logros y Reconocimientos
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Daniel-Hernandez-Repos&theme=radical&no-frame=true&row=3&column=4" /> </p>
 📈 Proyectos Destacados
